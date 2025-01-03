@@ -7,7 +7,7 @@ Neste podcast, exploramos como a interessante união entre Inteligência Artific
 
 - **[IA Generativa Microsoft Copilot](https://copilot.microsoft.com)**: Utilizado para desenvolver a ideia inicial e gerar o script.
 
-- **[IA Generativa Eleven Labs](https://elevenlabs.io): Utilizado para converter o texto em voz, com a escolha de uma voz feminina de avatar.
+- **[IA Generativa Eleven Labs](https://elevenlabs.io)**: Utilizado para converter o texto em voz, com a escolha de uma voz feminina de avatar.
 
 - **Software [Descript](https://www.descript.com)**  para edição e montagem do podcast.
 
